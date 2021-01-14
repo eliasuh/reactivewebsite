@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactivewebsite/static/css/main.22e47fa3.chunk.css",
+    "main.js": "/reactivewebsite/static/js/main.a056f863.chunk.js",
+    "main.js.map": "/reactivewebsite/static/js/main.a056f863.chunk.js.map",
+    "runtime-main.js": "/reactivewebsite/static/js/runtime-main.1fca062f.js",
+    "runtime-main.js.map": "/reactivewebsite/static/js/runtime-main.1fca062f.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/reactivewebsite/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.e786696d.chunk.js": "/reactivewebsite/static/js/2.e786696d.chunk.js",
+    "static/js/2.e786696d.chunk.js.map": "/reactivewebsite/static/js/2.e786696d.chunk.js.map",
+    "static/js/3.6bcb4b71.chunk.js": "/reactivewebsite/static/js/3.6bcb4b71.chunk.js",
+    "static/js/3.6bcb4b71.chunk.js.map": "/reactivewebsite/static/js/3.6bcb4b71.chunk.js.map",
+    "index.html": "/reactivewebsite/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/reactivewebsite/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.22e47fa3.chunk.css.map": "/reactivewebsite/static/css/main.22e47fa3.chunk.css.map",
+    "static/js/2.e786696d.chunk.js.LICENSE.txt": "/reactivewebsite/static/js/2.e786696d.chunk.js.LICENSE.txt",
+    "static/media/about-img.58d2ebe7.svg": "/reactivewebsite/static/media/about-img.58d2ebe7.svg",
+    "static/media/app1.a4a7e7fc.jpg": "/reactivewebsite/static/media/app1.a4a7e7fc.jpg",
+    "static/media/card1.3b6fe706.jpg": "/reactivewebsite/static/media/card1.3b6fe706.jpg",
+    "static/media/intro-img1.d425fb57.svg": "/reactivewebsite/static/media/intro-img1.d425fb57.svg",
+    "static/media/logo.6ce24c58.svg": "/reactivewebsite/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fca062f.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.e786696d.chunk.js",
+    "static/css/main.22e47fa3.chunk.css",
+    "static/js/main.a056f863.chunk.js"
+  ]
+}
